@@ -2,7 +2,7 @@
 <p align="center">✦ Gone a little mad; still shipping code ✧</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FEF2F2&center=true&vCenter=true&width=750&lines=%3C%2F%3E+JavaScript+%7C+TypeScript;%E2%96%B2+Next.js+%7C+React+Development;%E2%9A%99+Rust+%7C+Systems+Programming;%E2%86%92+PHP+%7C+Backend+Development;%23+HTML5+%7C+CSS3+%7C+Tailwind+CSS;%E2%8C%98+Git+%7C+GitHub+%7C+Open+Source;%E2%9C%A6+Figma+%7C+UI%2FUX+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FEF2F2&center=true&vCenter=true&width=780&lines=%3C%2F%3E+JavaScript+%7C+TypeScript;%E2%97%88+React+%7C+Vite+%7C+Next.js;%E2%96%B6+Node.js+%7C+npm;%E2%97%87+Python+%7C+Rust+%7C+PHP;%E2%97%8C+Cloudflare+%7C+Netlify;%E2%97%80+Git+%7C+GitHub;%E2%9C%A6+Figma+%7C+UI%2FUX+Design" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,5 +12,5 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,rust,php,html,css,tailwind,nodejs,cloudflare,git,github,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite,nextjs,nodejs,npm,py,rust,php,cloudflare,git,github,figma,netlify&theme=dark&perline=6" />
 </p>
