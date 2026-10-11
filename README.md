@@ -28,16 +28,6 @@ ANIME    █████░░░░░  50%
 SLEEP    ██░░░░░░░░  20%
 ```
 
-## 📈 Contribution activity
-
-<p align="center">
-  <a href="https://github.com/jnjal"><img src="https://github-readme-activity-graph.vercel.app/graph?username=jnjal" alt="GitHub contribution activity graph" width="100%" /></a>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jnjal&theme=github-dark&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
 ## 🐍 Contribution snake
 
 <p align="center">
