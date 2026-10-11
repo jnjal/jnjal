@@ -13,6 +13,31 @@
 
 ---
 
+## 🧩 What I'm into
+
+I build things for the web, break them, fix them, and occasionally decide the original version was better.
+
+Mostly **JavaScript / TypeScript**, **React**, and whatever tool gets the job done without getting in the way.
+
+---
+
+## 🚀 Featured projects
+
+### [Claude RTL & Font Fixer](https://github.com/jnjal/claude-rtl)
+A Chrome extension that makes Persian text on Claude properly **RTL** and switches the interface to locally bundled **Vazirmatn** fonts — while keeping code LTR.
+
+### [TEMORA](https://github.com/jnjal/temora)
+A pitch-black, distraction-free **focus timer** with session tracking, 7-day productivity analytics, ambient audio, notifications, and PWA support.
+
+### [Personal Portfolio](https://github.com/jnjal/jnjal.github.io)
+My personal corner of the internet — projects, notes, things I'm currently into, anime, music, and whatever else ends up there.
+
+---
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite,nextjs,nodejs,npm,py,rust,php,cloudflare,git,github,figma,netlify&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite,nextjs,nodejs,npm,py,rust,php,cloudflare,git,github,figma,netlify&theme=dark&perline=6" alt="Tech stack" />
+</p>
+
+<p align="center">
+  <sub>Still building. Still experimenting. Probably still awake.</sub>
 </p>
