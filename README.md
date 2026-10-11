@@ -35,7 +35,7 @@ SLEEP    ██░░░░░░░░  20%
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jnjal&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=jnjal&theme=github-dark&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ## 🐍 Contribution snake
