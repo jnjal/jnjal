@@ -28,7 +28,7 @@ SLEEP    ██░░░░░░░░  20%
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jnjal/jnjal/output/github-contribution-grid-snake-dark.svg?v=burgundy-2" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jnjal/jnjal/output/github-contribution-grid-snake.svg?v=burgundy-2" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jnjal/jnjal/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jnjal/jnjal/output/github-contribution-grid-snake.svg?v=burgundy-2" />
   </picture>
 </p>
 
