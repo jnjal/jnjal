@@ -11,15 +11,11 @@
 
 ---
 
-## 🚀 Featured
-
 | Project | What it is |
 |---|---|
 | **[Claude RTL](https://github.com/jnjal/claude-rtl)** | RTL & Vazirmatn for Claude |
 | **[TEMORA](https://github.com/jnjal/temora)** | Minimal focus timer |
 | **[Portfolio](https://github.com/jnjal/jnjal.github.io)** | My personal corner of the web |
-
-## ◈ Current state
 
 ```text
 CODE     ████████░░  80%
@@ -27,8 +23,6 @@ MUSIC    ██████░░░░  60%
 ANIME    █████░░░░░  50%
 SLEEP    ██░░░░░░░░  20%
 ```
-
-## 🐍 Contribution snake
 
 <p align="center">
   <picture>
