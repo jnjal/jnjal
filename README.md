@@ -31,7 +31,7 @@ SLEEP    ██░░░░░░░░  20%
 ## 📈 Contribution activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jnjal&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
+  <a href="https://github.com/jnjal"><img src="https://github-readme-activity-graph.vercel.app/graph?username=jnjal" alt="GitHub contribution activity graph" width="100%" /></a>
 </p>
 
 <p align="center">
