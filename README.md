@@ -22,17 +22,7 @@ CODE     ████████░░  80%
 MUSIC    ██████░░░░  60%
 ANIME    █████░░░░░  50%
 SLEEP    ██░░░░░░░░  20%
-```
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jnjal/jnjal/output/github-contribution-grid-snake-dark.svg?v=burgundy-snake-only" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jnjal/jnjal/output/github-contribution-grid-snake.svg?v=burgundy-snake-only" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jnjal/jnjal/output/github-contribution-grid-snake.svg?v=burgundy-snake-only" />
-  </picture>
-</p>
-
-<p align="center"><sub>It eats the commits. 🐍</sub></p>
+```<p align="center"><sub>It eats the commits. 🐍</sub></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite,nextjs,nodejs,npm,py,rust,php,cloudflare,git,github,figma,netlify&theme=dark&perline=6" alt="Tech stack" />
