@@ -20,8 +20,8 @@ jobs:
         with:
           github_user_name: jnjal
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23800040&color_dots=%23eee6ef%2C%23d9b3c6%2C%23b3668c%2C%23800040%2C%234d0026
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%23800040&color_dots=%2316100f%2C%233d1b2e%2C%236b294d%2C%23964067%2C%23d879a7
+            dist/github-contribution-grid-snake.svg?color_snake=%23800040&color_dots=%23f0dce5%2C%23c0809d%2C%23a34d73%2C%23800040%2C%234d0026
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23800040&color_dots=%2316000a%2C%23330019%2C%2359002d%2C%23800040%2C%23a60053
 
       - name: Slow down snake animation
         run: |
