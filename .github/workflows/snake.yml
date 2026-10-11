@@ -24,7 +24,8 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?color_snake=%23b03060&color_dots=%2316100f%2C%233d1b2e%2C%236b294d%2C%23964067%2C%23d879a7
 
       - name: Slow down snake animation
-        run: sed -i -E 's/animation:none [0-9.]+ms linear infinite/animation:none 60000ms linear infinite/g' dist/*.svg
+        run: |
+          sed -i -E 's/animation:none [0-9.]+ms linear infinite/animation:none 60000ms linear infinite/g; s/animation:none linear [0-9.]+ms infinite/animation:none linear 60000ms infinite/g' dist/*.svg
 
       - name: Publish generated files
         uses: crazy-max/ghaction-github-pages@v4
