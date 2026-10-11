@@ -20,8 +20,8 @@ jobs:
         with:
           github_user_name: jnjal
           outputs: |
-            dist/github-contribution-grid-snake.svg?duration=12000
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&duration=12000
+            dist/github-contribution-grid-snake.svg?duration=30000
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&duration=30000
 
       - name: Publish generated files
         uses: crazy-max/ghaction-github-pages@v4
