@@ -19,6 +19,15 @@
 | **[TEMORA](https://github.com/jnjal/temora)** | Minimal focus timer |
 | **[Portfolio](https://github.com/jnjal/jnjal.github.io)** | My personal corner of the web |
 
+## ◈ Current state
+
+```text
+CODE     ████████░░  80%
+MUSIC    ██████░░░░  60%
+ANIME    █████░░░░░  50%
+SLEEP    ██░░░░░░░░  20%
+```
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite,nextjs,nodejs,npm,py,rust,php,cloudflare,git,github,figma,netlify&theme=dark&perline=6" alt="Tech stack" />
 </p>
