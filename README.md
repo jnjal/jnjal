@@ -22,7 +22,8 @@ CODE     ████████░░  80%
 MUSIC    ██████░░░░  60%
 ANIME    █████░░░░░  50%
 SLEEP    ██░░░░░░░░  20%
-```<p align="center"><sub>It eats the commits. 🐍</sub></p>
+```
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite,nextjs,nodejs,npm,py,rust,php,cloudflare,git,github,figma,netlify&theme=dark&perline=6" alt="Tech stack" />
