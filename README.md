@@ -28,15 +28,15 @@ ANIME    █████░░░░░  50%
 SLEEP    ██░░░░░░░░  20%
 ```
 
-## 🐍 Tiny distraction
+## 🐍 Contribution snake
 
 <p align="center">
-  <a href="https://playsnake.org/">
-    <img src="https://playsnake.org/assets/snake-game.gif" width="420" alt="Play Snake" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jnjal/jnjal/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jnjal/jnjal/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/jnjal/jnjal/output/github-snake.svg" alt="GitHub contribution snake" />
+  </picture>
 </p>
-
-<p align="center"><sub>Click the snake. You know you want to.</sub></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite,nextjs,nodejs,npm,py,rust,php,cloudflare,git,github,figma,netlify&theme=dark&perline=6" alt="Tech stack" />
